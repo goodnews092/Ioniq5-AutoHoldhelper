@@ -1,5 +1,5 @@
 {
-  "name": "Ioniq 5 Auto-Hold (C3)",
+  "name": "Ioniq 5 Auto-Hold(LFA) (ESP32-C3 SUPERMINI)",
   "version": "1.0.0",
   "builds": [
     {
@@ -9,4 +9,5 @@
       ]
     }
   ]
+
 }
